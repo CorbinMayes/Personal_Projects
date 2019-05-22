@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DartEvent</string>
+    <string name="Add">Add Event</string>
+    <string name="email_signin">Email</string>
+    <string name="password_signin">Password</string>
+    <string name="signin_button">Sign In or Register</string>
+    <string name="confirm_email">Would you like to create a new account using the this email:</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="nav_bar_my_event">My Events</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="save">Save</string>
+    <string name="friend_s_email">Friend\'s email</string>
+    <string name="search">Search</string>
+    <string name="event_title">Title: </string>
+    <string name="event_date">Date, </string>
+    <string name="event_time">Time</string>
+    <string name="event_details">Details</string>
+    <string name="event_address">Address</string>
+    <string name="nav_bar_friend_event">Friend\'s Events</string>
+    <string name="nav_bar_public_event">Public Events</string>
+    <string name="public_question">Would you like to make this a public event?</string>
+    <string name="remove_friend">Would you like to delete this friend?</string>
+    <string name="notification_settings_question">Would you like to turn off notifications?</string>
+    <string name="add_friend_request">Would you like to add this user?</string>
+    <string name="delete">delete</string>
+    <string name="sync" />
+</resources>
